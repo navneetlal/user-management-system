@@ -1,0 +1,30 @@
+{
+  "name": "user-management-system",
+  "version": "1.0.0",
+  "description": "Grants access to multiple applications based on user group",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navneetlal/user-management-system.git"
+  },
+  "keywords": [
+    "oauth",
+    "rbac"
+  ],
+  "author": "Navneet Lal Gupta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/navneetlal/user-management-system/issues"
+  },
+  "homepage": "https://github.com/navneetlal/user-management-system#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@types/node": "^13.9.2",
+    "typescript": "^3.8.3"
+  }
+}
